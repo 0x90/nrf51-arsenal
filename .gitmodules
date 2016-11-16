@@ -1,0 +1,3 @@
+[submodule "gap"]
+	path = gap
+	url = https://github.com/lab11/gap
